@@ -1,0 +1,3 @@
+@echo off
+echo Launching LIFEGRAPH AI explainer video...
+start "" "%~dp0LIFEGRAPH_AI_Explainer.mp4"

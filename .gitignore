@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Render intermediates
+video/audio/*.wav
+video/audio/*.txt
+video/render.log
+video/install.log
+*.whl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Distribution archives
+*.zip
